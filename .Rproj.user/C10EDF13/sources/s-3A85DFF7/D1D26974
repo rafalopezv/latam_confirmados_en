@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601845119919.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D1D26974",
+    "lastKnownWriteTime" : 1601845122,
+    "last_content_update" : 1601845122557,
+    "path" : "~/Documents/latam_confirmados_en/code/graficos_latam.R",
+    "project_path" : "code/graficos_latam.R",
+    "properties" : {
+        "cursorPosition" : "411,0",
+        "scrollLine" : "395"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

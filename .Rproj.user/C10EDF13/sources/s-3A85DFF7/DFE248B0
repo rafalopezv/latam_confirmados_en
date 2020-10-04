@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601845127883.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2993452623",
+    "id" : "DFE248B0",
+    "lastKnownWriteTime" : 1601845373,
+    "last_content_update" : 1601845373976,
+    "path" : "~/Documents/latam_confirmados_en/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "62,34",
+        "scrollLine" : "51"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
