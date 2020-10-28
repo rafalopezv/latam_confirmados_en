@@ -12,6 +12,11 @@ plan(multiprocess) # activar procesamiento paralelo
 source("code/limpieza_bases.R")
 source("code/funciones.R")
 
+# arreglos highcharter
+lang <- getOption("highcharter.lang")
+lang$thousandsSep <- ","
+options(highcharter.lang = lang)
+
 #----------------------------------------------
 # aplanamiento de curvas
 #----------------------------------------------
